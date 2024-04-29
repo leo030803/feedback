@@ -30,8 +30,8 @@
 .card {
     background: var(--black-gradient);
     text-align: center;
-    max-widht: 412px;
-    padding 45px 32px;
+    max-width: 412px;
+    padding:  32px;
     border-radius: 30px;
 }
 
